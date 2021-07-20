@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640043296794",
+    "project_id": "edutekzila-project",
+    "storage_bucket": "edutekzila-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640043296794:android:82f970d44a6a20281509a3",
+        "android_client_info": {
+          "package_name": "com.example.edutekzilaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640043296794-ilasgiiskpt75tr8dj5i6ldtpt6drov3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0IVEPRtDPXWoiXJMntI8sFtx1kWuXsqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640043296794-ilasgiiskpt75tr8dj5i6ldtpt6drov3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

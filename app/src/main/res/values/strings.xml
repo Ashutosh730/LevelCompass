@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EduTekZila Project</string>
+    <string name="x_accelerometer">x_Accelerometer</string>
+    <string name="y_accelerometer">y_Accelerometer</string>
+</resources>
